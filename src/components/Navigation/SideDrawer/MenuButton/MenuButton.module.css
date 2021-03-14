@@ -1,12 +1,11 @@
 
-.Logo {
-    background-color: white;
-    padding: 8px;
+.MenuButton {
+    background-color: #914c0c;
     height: 100%;
     box-sizing: border-box;
     border-radius: 5px;
 }
 
-.Logo img {
+.MenuButton img {
     height: 100%;
 }
